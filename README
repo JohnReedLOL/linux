@@ -7,8 +7,8 @@ kernel, and what to do if something goes wrong.
 WHAT IS LINUX?
 
   Linux is a clone of the operating system Unix, written from scratch by
-  Linus Torvalds with assistance from a loosely-knit team of hackers across
-  the Net. It aims towards POSIX and Single UNIX Specification compliance.
+Linus Torvalds with assistance from a loosely-knit team of hackers across
+the Net. It aims towards POSIX and Single UNIX Specification compliance.
 
   It has all the features you would expect in a modern fully-fledged Unix,
   including true multitasking, virtual memory, shared libraries, demand
@@ -16,7 +16,7 @@ WHAT IS LINUX?
   and multistack networking including IPv4 and IPv6.
 
   It is distributed under the GNU General Public License - see the
-  accompanying COPYING file for more details. 
+accompanying COPYING file for more details. 
 
 ON WHAT HARDWARE DOES IT RUN?
 
@@ -27,12 +27,12 @@ IBM S/390, MIPS, HP PA-RISC, Intel IA-64, DEC VAX, AMD x86-64, AXIS CRIS,
 Xtensa, Tilera TILE, AVR32, ARC and Renesas M32R architectures.
 
   Linux is easily portable to most general-purpose 32- or 64-bit architectures
-  as long as they have a paged memory management unit (PMMU) and a port of the
-  GNU C compiler (gcc) (part of The GNU Compiler Collection, GCC). Linux has
-  also been ported to a number of architectures without a PMMU, although
-  functionality is then obviously somewhat limited.
-  Linux has also been ported to itself. You can now run the kernel as a
-  userspace application - this is called UserMode Linux (UML).
+as long as they have a paged memory management unit (PMMU) and a port of the
+GNU C compiler (gcc) (part of The GNU Compiler Collection, GCC). Linux has
+also been ported to a number of architectures without a PMMU, although
+functionality is then obviously somewhat limited.
+Linux has also been ported to itself. You can now run the kernel as a
+userspace application - this is called UserMode Linux (UML).
 
 DOCUMENTATION:
 
